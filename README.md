@@ -26,8 +26,8 @@
 Este projeto foi desenvolvid para gerenciar uma acadêmia de jiu-jitsu utilizando Python e Django com Flet sendo multiplataforma. O objetivo é permitir que os professores registrem os alunos de forma organizada, podendo criar, editar, listar e excluir, aulas pra subir de faixa e o progresso do aluno. O projeto utiliza Django-Ninja uma biblioteca api para o back-end como framework principal para o desenvolvimento da aplicação web usado django e foi pensado para fornecer uma interface simples e intuitiva para os usuários com flet multiplataforma e uma biblioteca de requests para ligar o front-end com o back-end.
 
 <p align="center">
-  <img src="imagem1.png" alt="Imagem 1">
-  <img src="imagem2.png" alt="Imagem 2">
+  <img src="image1.png" alt="Imagem 1">
+  <img src="image2.png" alt="Imagem 2">
 </p>
 
 <br>
