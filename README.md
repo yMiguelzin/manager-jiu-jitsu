@@ -38,8 +38,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
+- [Django-Ninja](https://django-ninja.dev/) ( api )
 - [Pillow](https://python-pillow.org/) (para manipulação de imagens)
-- [SQLite](https://www.sqlite.org/index.html) (banco de dados padrão para desenvolvimento com Django)
+- [https://flet.dev/](https://www.sqlite.org/index.html) (biblioteca multiplataforma)
 
 <br>
 
