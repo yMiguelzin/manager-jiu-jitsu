@@ -136,7 +136,7 @@ Após a criação do venv vamos ativa-lo:
   Inicie o front-end de desenvolvimento para rodar a aplicação localmente:
   
   ```bash
-  python app.py
+  flet run app.py
   
   ```
 
